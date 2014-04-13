@@ -12,7 +12,7 @@ import java.util.Set;
  * This class is a replica from Primitives class from Guava library
  * @see http://docs.guava-libraries.googlecode.com/git/javadoc/com/google/common/primitives/Primitives.html
  * 
- * This class was implemented here just for aducational purposes. 
+ * This class was implemented here just for educational purposes. 
  * @author lfalcao
  *
  *
