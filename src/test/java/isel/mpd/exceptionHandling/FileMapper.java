@@ -24,7 +24,7 @@ public class FileMapper<T> implements IMapper<T> {
 			return getAllNew();
 		} catch (MapperException e) {
 			// This is a poor solution, but it's the best one when we don't have access 
-			// to the base class or interface source code and still want yo use it.  
+			// to the base class or interface source code and still want to use it.  
 			throw new RuntimeException(e);
 		}
 	}
